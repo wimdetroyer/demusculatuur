@@ -9,6 +9,16 @@ body {
   font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
+.carousel-inner {
+  width: 800px; /* Adjust as needed */
+  height: 600px; /* Adjust as needed */
+}
+
+.carousel-inner img {
+  width: 100%; /* Adjust as needed */
+  height: auto; /* Maintains aspect ratio */
+}
+
 p {
   line-height: 1.75;
 }
