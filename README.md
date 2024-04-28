@@ -1,3 +1,3 @@
-V2:
+# Running locally
 
-- https://twitter.com/tldraw/status/1725083976392437894
+gulp dev
